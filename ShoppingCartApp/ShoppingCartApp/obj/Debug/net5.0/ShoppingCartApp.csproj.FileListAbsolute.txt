@@ -1,0 +1,5 @@
+C:\ShoppingCart_Assignment\ShoppingCart\ShoppingCartApp\ShoppingCartApp\obj\Debug\net5.0\ShoppingCartApp.csproj.AssemblyReference.cache
+C:\ShoppingCart_Assignment\ShoppingCart\ShoppingCartApp\ShoppingCartApp\obj\Debug\net5.0\ShoppingCartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShoppingCart_Assignment\ShoppingCart\ShoppingCartApp\ShoppingCartApp\obj\Debug\net5.0\ShoppingCartApp.AssemblyInfoInputs.cache
+C:\ShoppingCart_Assignment\ShoppingCart\ShoppingCartApp\ShoppingCartApp\obj\Debug\net5.0\ShoppingCartApp.AssemblyInfo.cs
+C:\ShoppingCart_Assignment\ShoppingCart\ShoppingCartApp\ShoppingCartApp\obj\Debug\net5.0\ShoppingCartApp.csproj.CoreCompileInputs.cache
